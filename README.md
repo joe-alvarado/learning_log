@@ -1,9 +1,10 @@
 # learning_log
 
-A learning log made in Django and styled using Bootstrap. See screenshots below or check out a live version here: https://joe-a.herokuapp.com
+A learning log made in Django and styled using Bootstrap. See screenshots below or check out a live version here: 
+https://joe-a.herokuapp.com
 
-Track your learning.
-Make your own Learning Log, and keep a list of the topics you're learning about. Whenever you learn something new about a topic, make an entry summarizing what you've learned.
+<i>Track your learning.
+Make your own Learning Log, and keep a list of the topics you're learning about. Whenever you learn something new about a topic, make an entry summarizing what you've learned.</i>
 
 <img width="1148" alt="00" src="https://user-images.githubusercontent.com/75564117/124853164-4c97ce80-df5a-11eb-8992-9202b7a15195.png">
 <img width="1148" alt="01" src="https://user-images.githubusercontent.com/75564117/124853175-4f92bf00-df5a-11eb-9288-0f5bdad2fcfa.png">
